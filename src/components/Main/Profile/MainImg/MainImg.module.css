@@ -1,0 +1,12 @@
+.imgWrapper {
+  height: 7rem;
+  width: 96%;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 11px;
+}
+
+.imgWrapper img {
+  width: 100%;
+  opacity: 0.8;
+}

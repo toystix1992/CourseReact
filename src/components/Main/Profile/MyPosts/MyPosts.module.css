@@ -1,0 +1,17 @@
+.myPosts {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.writePost {
+    display: flex;
+    gap: 0.5em;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 6rem;
+}
+
+.writePost button {
+    margin-left: 6rem;
+}

@@ -1,0 +1,27 @@
+
+.item {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 0 1rem 0;
+    gap: 0.5rem;
+}
+
+.itemImg {
+    width: 9%;
+    overflow: hidden;
+}
+
+.itemImg img {
+    width: 100%;
+    border-radius: 11%;
+}
+
+.itemText {
+    max-width: 25%;
+    min-height: 9%;
+    background-color: rgba(30, 116, 116, 0.26);
+    font-size: 0.7rem;
+    padding:0.3rem;
+    border: 1px solid rgba(30, 156, 146, 0.6);
+    border-radius: 6px;
+}
